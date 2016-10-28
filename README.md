@@ -52,7 +52,8 @@
 ```
 ผลจากการทดลอง
 ![](https://github.com/Tooktasupaporn/LAB-03/blob/master/project3.PNG?raw=true)
-![]()
+![](https://github.com/Tooktasupaporn/LAB-03/blob/master/project3-1.PNG?raw=true)
 
 ##คำถาม 
 1.	นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+-ไม่พบปัญหาในการรันโปรแกรม
